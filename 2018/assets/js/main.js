@@ -281,9 +281,9 @@ APP.Modal = {
 
             el.find('.js-speaker-image').each(function(){
                 var imgsrc = $(this).html(),
-                    src = '/assets/img/speakers/' + imgsrc,
-                    newImg = '<img class="speaker-headshot" src="/assets/img/speakers/' + imgsrc + '" />',
-                    imgFull = '<figure class="hexagon-image speaker-image mb-4">' + newImg + '<img class="hex-border-alt" src="/assets/img/hex.svg" alt="pink cube" /><img class="hex-hover" src="/assets/img/hex-hover.png" alt="pink cube" /></figure>';
+                    src = '../../../assets/img/speakers/' + imgsrc,
+                    newImg = '<img class="speaker-headshot" src="../../../assets/img/speakers/' + imgsrc + '" />',
+                    imgFull = '<figure class="hexagon-image speaker-image mb-4">' + newImg + '<img class="hex-border-alt" src="../../../assets/img/hex.svg" alt="pink cube" /><img class="hex-hover" src="../../../assets/img/hex-hover.png" alt="pink cube" /></figure>';
 
                 modalImage.append(imgFull);
                 speakerCount++;

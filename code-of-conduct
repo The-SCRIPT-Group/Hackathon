@@ -8,7 +8,7 @@
         <!--[if IE]><meta http-equiv="cleartype" content="on" /><![endif]-->
         <link rel="canonical" href="https://githubuniverse.com/code-of-conduct/">
         <link rel="alternate" type="application/rss+xml" title="GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA" href="/feed.xml">
-        <link rel="stylesheet" media="screen" href="/assets/css/index.css" />
+        <link rel="stylesheet" media="screen" href="assets/css/index.css" />
 
         <script>
             function doNotTrackEnabled() {
@@ -35,9 +35,9 @@
             }
         </script>
 
-        <link rel="shortcut icon" type="image/ico" href="/assets/img/favicons/favicon.png" />
-        <link rel="apple-touch-icon" href="/assets/img/favicons/apple-touch-icon.png" />
-        <link rel="icon" href="/assets/img/favicons/android-favicon.png">
+        <link rel="shortcut icon" type="image/ico" href="assets/img/favicons/favicon.png" />
+        <link rel="apple-touch-icon" href="assets/img/favicons/apple-touch-icon.png" />
+        <link rel="icon" href="assets/img/favicons/android-favicon.png">
         <!-- Begin Jekyll SEO tag v2.5.0 -->
 <title>Code of Conduct | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA</title>
 <meta name="generator" content="Jekyll v3.8.5" />
@@ -112,7 +112,7 @@
 	<div class="site-header__inner">
 		<div class="site-branding" itemscope itemtype="http://schema.org/Organization">
 			<a href="/">
-				<img src="/assets/img/GitHub-Universe-logo-2019.svg" alt="GitHub Universe Logo" />
+				<img src="assets/img/GitHub-Universe-logo-2019.svg" alt="GitHub Universe Logo" />
 			</a>
 		</div>
 
@@ -173,13 +173,13 @@
 			</div>
 			<div class="social-links">
 				<a href="https://twitter.com/github" target="_blank" rel="noopener noreferrer">
-					<img src="/assets/img/svgs/twitter.svg" alt="Twitter" />
+					<img src="assets/img/svgs/twitter.svg" alt="Twitter" />
 				</a>
 				<a href="https://www.instagram.com/github/" target="_blank" rel="noopener noreferrer">
-					<img src="/assets/img/svgs/instagram.svg" alt="instagram" />
+					<img src="assets/img/svgs/instagram.svg" alt="instagram" />
 				</a>
 				<a href="https://www.youtube.com/GitHub" target="_blank" rel="noopener noreferrer">
-					<img src="/assets/img/svgs/youtube.svg" alt="youtube" />
+					<img src="assets/img/svgs/youtube.svg" alt="youtube" />
 				</a>
 			</div>
 		</div>
@@ -240,7 +240,7 @@
 <footer class="site-footer" role="contentinfo">
     <div class="container">
         <a class="site-footer-logo" href="/">
-            <img src="/assets/img/GitHub-Universe-logo-2019.svg" alt="GitHub Universe Logo" />
+            <img src="assets/img/GitHub-Universe-logo-2019.svg" alt="GitHub Universe Logo" />
         </a>
         <ul>
             <li>
@@ -287,13 +287,13 @@
 
         <div class="social-links">
             <a href="https://twitter.com/github" target="_blank" rel="noopener noreferrer" tabindex="100">
-                <img src="/assets/img/svgs/twitter.svg" alt="Twitter" />
+                <img src="assets/img/svgs/twitter.svg" alt="Twitter" />
             </a>
             <a href="https://www.instagram.com/github/" target="_blank" rel="noopener noreferrer">
-                <img src="/assets/img/svgs/instagram.svg" alt="instagram" />
+                <img src="assets/img/svgs/instagram.svg" alt="instagram" />
             </a>
             <a href="https://www.youtube.com/GitHub" target="_blank" rel="noopener noreferrer">
-                <img src="/assets/img/svgs/youtube.svg" alt="youtube" />
+                <img src="assets/img/svgs/youtube.svg" alt="youtube" />
             </a>
         </div>
     </div>
@@ -303,7 +303,7 @@
 
         <!-- JAVASCRIPT -->
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-        <script src="/assets/js/main.js"></script>
+        <script src="assets/js/main.js"></script>
         
         <noscript>
         <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1003644&fmt=gif" />
